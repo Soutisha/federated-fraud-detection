@@ -1,0 +1,17 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated files
+data/
+results/
+
+# VS Code
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db

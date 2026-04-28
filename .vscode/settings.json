@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        ".env": false
+    }
+}
